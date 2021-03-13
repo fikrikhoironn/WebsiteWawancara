@@ -138,3 +138,21 @@ html{
         display: none;
     }
 }
+
+.flex-paragraph img {
+    width: 300px;
+}
+
+.left {
+    padding: 50px;
+}
+
+.right {
+    padding: 50px;
+}
+
+.flex-paragraph {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
